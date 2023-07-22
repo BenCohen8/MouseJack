@@ -48,7 +48,7 @@ To use these scripts, you will need a [CrazyRadio PA adapter from Seeed Studio](
 After installing the firmware, you can install JackIt via:
 
 ```
-git clone https://github.com/insecurityofthings/jackit.git
+git clone https://github.com/BenCohen8/MouseJack.git
 cd jackit
 pip install -e .
 ```
