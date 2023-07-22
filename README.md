@@ -49,7 +49,7 @@ After installing the firmware, you can install JackIt via:
 
 ```
 git clone https://github.com/BenCohen8/MouseJack.git
-cd jackit
+cd MouseJack
 pip install -e .
 ```
 
